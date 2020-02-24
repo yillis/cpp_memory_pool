@@ -34,7 +34,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\..\wm\blog\source\_posts\ReadMe.md">
+    <None Include="..\README.md">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

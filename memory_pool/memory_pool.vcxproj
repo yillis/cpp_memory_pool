@@ -132,7 +132,7 @@
     <ClInclude Include="stack_alloc.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\..\wm\blog\source\_posts\ReadMe.md" />
+    <None Include="..\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
